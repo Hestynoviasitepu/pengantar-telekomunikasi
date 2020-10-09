@@ -1,0 +1,15 @@
+Nama : Hesty Novia Br Sitepu
+NIM  : 09011382025118
+
+Tugas Telekomunikasi
+
+~Throughput        = 5144112:31757 =161.98356 dalam byte/s
+                     1 bytes = 8bit
+                     161.98356 x 8 = 129,586,848 k bits/s
+
+~Error/packet lost = 0% tidak ada paket yang hilang atau tidak terrkirim
+
+~delay             = Total delay : 31,75701
+                     Rata-rata delay: 0,007485
+~Jitter            = Total jitter : 0,009875
+                     Rata-rata jitter : 2,23265
